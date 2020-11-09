@@ -20,10 +20,6 @@ const Cube = () => {
           <boxBufferGeometry
             attach={"geometry"}
             args={[2, 2, 2]}></boxBufferGeometry>
-          {/*<meshBasicMaterial*/}
-          {/*  wireframe={true}*/}
-          {/*  attach={"material"}*/}
-          {/*  color={"white"}></meshBasicMaterial>*/}
           <meshStandardMaterial
             attach='material'
             map={metalTexture}
