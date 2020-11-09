@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../3d-in-react">
+      <excludeFolder url="file://$MODULE_DIR$/../3d-in-react/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../3d-in-react/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../3d-in-react/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/../3d-in-react/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
